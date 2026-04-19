@@ -1,0 +1,5 @@
+﻿APP_NAME = "AppJoos Desktop Agent"
+APP_VERSION = "0.3.0"
+APP_DISPLAY_NAME = f"{APP_NAME} v{APP_VERSION}"
+COMPANY_NAME = "AppJoos"
+AUTHOR_NAME = "J.Hughes"
